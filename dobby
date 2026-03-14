@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Dobby</title>
+</head>
+
+<body>
+    <h1>Sobre o Dobby</h1>
+    <img src="https://recreio.com.br/wp-content/uploads/2025/08/dobby-capa.jpg"
+        width="300" alt=""> <br>
+    Dobby foi um elfo doméstico escravizado pela família Malfoy, sofrendo crueldades até ser liberto por Harry Potter em
+    A Câmara Secreta (1992) através de uma meia escondida num diário. Ele se tornou um "elfo livre", amigo leal de
+    Harry, trabalhando em Hogwarts. Dobby morreu heroicamente em As Relíquias da Morte ao salvar seus amigos.
+    <br><br><a href="projetoharry.html">voltar</a>
+</body>
+
+</html>
