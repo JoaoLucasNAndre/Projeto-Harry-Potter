@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Voldemort</title>
+</head>
+
+<body>
+    <h1>Sobre o Voldemort</h1>
+    <img src="https://d2d7ho1ae66ldi.cloudfront.net/ArquivoNoticias/a3149881-6517-11ed-aa6e-9587410378a2/voldemort.jpg" 
+        width="300" alt=""> <br>
+    Tom Riddle (Lord Voldemort) foi o bruxo das trevas mais poderoso da história, movido pela obsessão com sangue puro,
+    imortalidade e medo da morte. Nascido de uma bruxa e um trouxa, cresceu em um orfanato e se tornou um líder cruel,
+    dividindo sua alma em Horcruxes. Ele foi derrotado ao tentar matar Harry Potter, sendo finalmente destruído em 1998.
+    <br><br><a href="projetoharry.html">voltar</a>
+</body>
+
+</html>
