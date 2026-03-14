@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Harry</title>
+</head>
+
+<body>
+    <h1>sobre o Harry Potter</h1>
+    <img src="https://sm.ign.com/t/ign_br/cover/h/harry-pott/harry-potter-the-series_s6p5.600.jpg" width="300" alt=""> <br>
+    Harry Potter é o protagonista da famosa saga criada por J.K. Rowling. Um bruxo órfão conhecido como "O Menino que
+    Sobreviveu" após Lord Voldemort matar seus pais, mas falhar ao tentar matá-lo, deixando-lhe uma cicatriz de raio.
+    Harry frequenta Hogwarts, onde luta contra as forças das trevas, torna-se um Auror e forma uma família.
+     <br><br><a href="projetoharry.html">voltar</a>
+</body>
+
+</html>
